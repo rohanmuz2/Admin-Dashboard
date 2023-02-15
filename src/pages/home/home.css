@@ -1,0 +1,10 @@
+.home {
+  display: flex;
+}
+.home .homeContainer {
+  flex: 8;
+  padding: 10px;
+  margin: 4px;
+  align-items: center;
+  justify-content: center;
+}/*# sourceMappingURL=home.css.map */

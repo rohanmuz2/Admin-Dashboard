@@ -1,0 +1,40 @@
+.featured {
+  flex: 2;
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+  padding: 10px;
+}
+.featured .top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: grey;
+}
+.featured .top .title {
+  font-size: 15px;
+}
+.featured .bottom {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+.featured .bottom .featuredChart {
+  width: 100px;
+  height: 100px;
+}
+.featured .title {
+  font-weight: 500;
+  color: grey;
+}
+.featured .amount {
+  color: black;
+  font-size: 25px;
+}
+.featured .desc {
+  font-weight: 10;
+  font-size: 15px;
+  color: grey;
+  text-align: center;
+}/*# sourceMappingURL=featured.css.map */
